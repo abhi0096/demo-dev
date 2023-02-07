@@ -1,3 +1,3 @@
-@Library("global-lib") _
+@Library("shared-library ") _
 
-genericFile(branch: 'main', Url: 'https://github.com/abhi0096/demo-webpage.git')
+global-lib(branch: 'main', Url: 'https://github.com/abhi0096/demo-webpage.git')
