@@ -1,5 +1,5 @@
 @Library('shared-library') _
-jenkinsForJava 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
+jenkinsForJava 'https://github.com/abhi0096/demo-webpage.git'
 
 
 // @Library('shared-library') _
