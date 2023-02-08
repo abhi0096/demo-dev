@@ -1,5 +1,5 @@
 @Library('shared-library') _
-genericFile 'https://github.com/abhi0096/demo-webpage.git'
+genericFile 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
 
 
 // @Library('shared-library') _
